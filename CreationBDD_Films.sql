@@ -1,3 +1,5 @@
+CREATE DATABASE Appfilms;
+
 CREATE TABLE films (
     id_film INT PRIMARY KEY,
     titre VARCHAR(50) NOT NULL,
